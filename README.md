@@ -17,3 +17,4 @@ Project started 2022-02-14
 Project started 2000-02-22
 TODO: ask sequencing center about adapters
 Samples expected from sequencing core F%
+\n\nMaize reference genome version: refgen3
