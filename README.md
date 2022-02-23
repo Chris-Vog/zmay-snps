@@ -11,9 +11,9 @@ Text
 	/home/chris/Desktop/zmays-snps/data/seqs/zmaysC_R1.fastq
 	/home/chris/Desktop/zmays-snps/data/seqs/zmaysC_R2.fastq
 
-
 	Zea Mays SNP Calling Project
 	Project started 2022-02-14
 	Samples expected from sequencing core 2022-02-14
 
-	We downloaded refgen3 on 2022-02-15
+	Maize reference genome version: refgen3, downloaded 2022-02-15 from
+	http://maizegdb.org into `/share/data/refgen3/`.
