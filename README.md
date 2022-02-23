@@ -12,10 +12,8 @@ Text
 	/home/chris/Desktop/zmays-snps/data/seqs/zmaysC_R2.fastq
 
 
-Zea Mays SNP Calling Project
-Project started 2022-02-14
-Project started 2000-02-22
-TODO: ask sequencing center about adapters
-Samples expected from sequencing core F%
-\n\nMaize reference genome version: refgen3
-This is just another test to print the date 2022-02-23
+	Zea Mays SNP Calling Project
+	Project started 2022-02-14
+	Samples expected from sequencing core 2022-02-14
+
+	We downloaded refgen3 on 2022-02-15
